@@ -6,7 +6,7 @@ Only the TS-H492C. Drives with another letter (TS-H492A, TS-H492B, ...) are diff
 
 ## Download
 
-`TS-H492C_GD2D.bin`: <INTERNET ARCHIVE URL>
+`TS-H492C_GD2D.bin`: https://archive.org/details/ts-h492c-gd2d
 
 SHA-256 `6c8f27a5b49a224ab485908d9d193fc78090038bdc7a54fb73f44c73cb22ccd2`
 
