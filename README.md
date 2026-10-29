@@ -1,8 +1,8 @@
 # TS-H492C GD-ROM firmware
 
-Modified firmware that lets the TSSTcorp CDRWDVD TS-H492C (IDE CD-RW/DVD-ROM combo, also sold as Samsung) dump Dreamcast GD-ROMs. Based on firmware DE02. Current version: **GD2D**.
+TS-H492C (IDE CD-RW/DVD-ROM) firmware for dumping Dreamcast GD-ROMs. Based on DE02. Current version: **GD2D**.
 
-Only the TS-H492C. Other letters (TS-H492A, TS-H492B, ...) are different drives and probably not compatible; untested.
+Only the TS-H492C. Other letters (TS-H492A, ...) are different drives. Tested only with Dell firmware (DE0x); retail units (Samsung SH-M522C) untested.
 
 ## Download
 
