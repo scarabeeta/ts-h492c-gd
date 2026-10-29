@@ -50,7 +50,8 @@ Normal CDs dump with the same redumper command.
 
 ## Known limits
 
-- Tested on one drive. Audio CDs, DVDs and burning not tested yet.
+- Tested on one drive.
+- Burning is not tested. The changes do not touch the write path, so it should work as before.
 - The HD area is limited to 20x; faster hangs the drive.
 - redumper reads one sector per command, so a full CD takes about 20 minutes.
 - libata sometimes drops the drive to PIO and dumps get about 3 times slower. `/sys/class/ata_device/dev*/xfer_mode` should say `XFER_UDMA_2`.
@@ -61,6 +62,8 @@ Dumps matching Redump:
 
 1. Harusame Youbi (T-20106M), dcdump: all 3 tracks.
 2. SLPM-86378 (PS1), redumper: 10 of 10 runs, disc reloaded before each.
+
+Audio CD (redumper at 4x, 24x and max) and DVD (redumper) dumps are identical to the ones made with earlier versions.
 
 ## License
 
