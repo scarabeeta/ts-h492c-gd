@@ -66,7 +66,7 @@ Dumps matching Redump:
 
 Copyright (C) 2026 scarabeeta
 
-`h492cflash.py`, the documentation, and the changes to the firmware (listed in [PATCHES.md](PATCHES.md)): GPL-3.0-or-later (see `LICENSE`). The rest of the firmware image is TSST's and is not covered by this license.
+`h492cflash.py`, the documentation, and the changes to the firmware (listed in [PATCHES.md](PATCHES.md)): GPL-3.0-or-later (see `LICENSE`). The rest of the firmware image belongs to its rights holders and is not covered by this license.
 
 ## Disclaimer
 
