@@ -31,7 +31,7 @@ SGDEV=/dev/sgN python3 h492cflash.py TS-H492C_GD2D.bin go      # flash
 
 ## Dumping
 
-With [dcdump](https://github.com/wakasio/dcdump):
+With [dcdump](https://github.com/scarabeeta/dcdump):
 
 ```
 dcdump --drive TS-H492C
